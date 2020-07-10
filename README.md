@@ -115,6 +115,10 @@ The VLP-16 rotation rate is set to 10Hz. This data-set features over 20K scans a
     <img src="/LeGO-LOAM/launch/google-earth.png" alt="drawing" width="600"/>  
 </p>
 
+## build problem in Ubuntu 18.04 + ROS melodic
+
+see [here](https://github.com/ethz-asl/lidar_align/issues/16)
+
 ## Cite *LeGO-LOAM*
 
 Thank you for citing our *LeGO-LOAM* paper if you use any of this code: 
